@@ -4,7 +4,7 @@ Este proyecto es una página web desarrollada con PHP, CSS, JS y MySQL que te pe
 
 Además, esta página web cuenta con un sistema que evita las inyecciones SQL, lo que garantiza la seguridad de tus datos personales y de tus contactos.
 
-##Características:
+## Características:
 
 Registro de usuarios y autenticación de sesión
 Creación, edición y eliminación de contactos telefónicos
