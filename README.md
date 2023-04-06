@@ -6,6 +6,6 @@ Además, esta página web cuenta con un sistema que evita las inyecciones SQL, l
 
 ## Características:
 
-Registro de usuarios y autenticación de sesión
-Creación, edición y eliminación de contactos telefónicos
-Prevención de inyecciones SQL para proteger tus datos
+- Registro de usuarios y autenticación de sesión
+* Creación, edición y eliminación de contactos telefónicos
++ Prevención de inyecciones SQL para proteger tus datos
